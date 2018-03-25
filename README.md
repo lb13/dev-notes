@@ -36,4 +36,5 @@ The project generated successfully. The dev server can be activated by running `
     Run python manage.py migrate to apply those changes to the database.
 ##########
 
-Got as far as the start of this page: https://docs.djangoproject.com/en/2.0/intro/tutorial03/
+Current progress:
+https://docs.djangoproject.com/en/2.0/intro/tutorial03/#write-views-that-actually-do-something
