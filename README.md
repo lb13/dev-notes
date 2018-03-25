@@ -7,7 +7,8 @@
 * Install any dependencies you need, including Django ```pip install Django==2.0.3```
 * Next ```cd``` into the new directory and create a directory for your code / projects ```mkdir NAME```.
 * In your code / projects folder, run ```django-admin startproject NAME```
-* After you're finished, end the virtual environment by typing ```deactivate```.
+* After you're finished, end the virtual environment by typing ```deactivate```
+* For easier Django development, run ```alias rs="python manage.py runserver"```
 
 ## On Windows 10
 Sidenote: using virtualenv on Windows seems rrrrrrreaallllyyyyy slow - be prepared to twiddle your thumbs during processes
